@@ -24,7 +24,7 @@ There are different kinds of knowledge representations based on the information 
 
  ![alt text](./rwa5_group_1/docs/readme_images/knowledge_representation.PNG?raw=true "Knowledge Representation")
 
-## Agility Challeneges
+## Agility Challenges
 
 ARIAC 2020 has the following agility challenges
 1)  <b> Faulty Products :</b> Certain parts in the shop floor are faulty but can only be identified one on the AGV.
